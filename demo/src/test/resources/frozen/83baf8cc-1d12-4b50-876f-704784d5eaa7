@@ -1,0 +1,5 @@
+Class <com.github.shihyuho.jcconf2022.archunit.MyApplication> does not reside outside of packages ['..jcconf2022..'] in (MyApplication.java:0)
+Class <com.github.shihyuho.jcconf2022.archunit.controller.MyController> does not reside outside of packages ['..jcconf2022..'] in (MyController.java:0)
+Class <com.github.shihyuho.jcconf2022.archunit.repository.MyDao> does not reside outside of packages ['..jcconf2022..'] in (MyDao.java:0)
+Class <com.github.shihyuho.jcconf2022.archunit.repository.MyEntity> does not reside outside of packages ['..jcconf2022..'] in (MyDao.java:0)
+Class <com.github.shihyuho.jcconf2022.archunit.service.MyService> does not reside outside of packages ['..jcconf2022..'] in (MyService.java:0)
